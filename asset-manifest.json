@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Gherbal-Exercice/static/css/main.b1db2d8f.css",
+    "main.js": "/Gherbal-Exercice/static/js/main.dc44289b.js",
+    "static/media/two_consultant.png": "/Gherbal-Exercice/static/media/two_consultant.2b80111769f85c109336.png",
+    "static/media/map.png": "/Gherbal-Exercice/static/media/map.73948584a92a3fc87a6f.png",
+    "static/media/judge.png": "/Gherbal-Exercice/static/media/judge.244bd03cbaa32ce8cd0a.png",
+    "static/media/appellate_public_prosecutor.png": "/Gherbal-Exercice/static/media/appellate_public_prosecutor.2c636c2960422a924a81.png",
+    "static/media/protester.png": "/Gherbal-Exercice/static/media/protester.7b88931f11e45470f68e.png",
+    "static/media/defendant.png": "/Gherbal-Exercice/static/media/defendant.4f209e629f74290fcca1.png",
+    "static/media/delay.png": "/Gherbal-Exercice/static/media/delay.2d703a7a57d97d5526aa.png",
+    "static/media/public_prosecution.png": "/Gherbal-Exercice/static/media/public_prosecution.98a4530c90d5cfbe51e6.png",
+    "index.html": "/Gherbal-Exercice/index.html",
+    "static/media/getFetch.cjs": "/Gherbal-Exercice/static/media/getFetch.c780682470504fffbd04.cjs",
+    "main.b1db2d8f.css.map": "/Gherbal-Exercice/static/css/main.b1db2d8f.css.map",
+    "main.dc44289b.js.map": "/Gherbal-Exercice/static/js/main.dc44289b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b1db2d8f.css",
+    "static/js/main.dc44289b.js"
+  ]
+}
